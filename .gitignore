@@ -1,5 +1,12 @@
+# Ignorar arquivos temporários do Python
 __pycache__/
 *.py[cod]
+
+# Ignorar planilhas e logs (Segurança de Dados)
 *.csv
 *.xlsx
 *.log
+
+# Ignorar configurações de sistema
+Thumbs.db
+.DS_Store
