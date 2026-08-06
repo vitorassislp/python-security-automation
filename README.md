@@ -1,4 +1,4 @@
-# 🛡️ Scripts de Automação e Segurança (Python)
+# Scripts de Automação e Segurança (Python)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
@@ -6,7 +6,7 @@
 Este repositório contém scripts que desenvolvi para automatizar tarefas de rotina de TI, com foco em **Auditoria de Acessos (IAM)** e **Análise de Logs**.
 O objetivo é usar Python para garantir segurança e poupar tempo em tarefas manuais.
 
-## 📂 O que tem aqui?
+## O que tem aqui?
 
 ### 1. Auditoria de IAM (`iam_audit.py`)
 * **O problema:** Funcionários são desligados, mas às vezes o acesso deles continua ativo no sistema.
@@ -21,7 +21,7 @@ O objetivo é usar Python para garantir segurança e poupar tempo em tarefas man
 * **O problema:** Pastas de Downloads/Rede bagunçadas.
 * **O que o script faz:** Monitora uma pasta e move os arquivos automaticamente para subpastas (Imagens, Documentos, etc) baseado na extensão.
 
-## 🚀 Como usar
+## Como usar
 
 1. Clone o repositório.
 2. Instale as dependências:
